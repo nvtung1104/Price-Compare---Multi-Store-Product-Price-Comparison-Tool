@@ -1012,5 +1012,7 @@ This project was inspired by the need for a simple, open-source price comparison
 - **Mobile Support**: Yes (Responsive)
 
 ---
+VIDEO DEMO
+https://youtu.be/j5eIqm4GJMM?si=5pj-vGDB3NWdH-JM
 
 
